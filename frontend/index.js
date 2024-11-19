@@ -143,6 +143,20 @@ document.addEventListener('DOMContentLoaded', async () => {
             renderLeaderboard(sortedData);
         });
 
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
     } catch (error) {
         console.error('Error fetching data:', error);
     }
